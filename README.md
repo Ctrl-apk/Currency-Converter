@@ -3,6 +3,8 @@
 ## Description
 A simple and responsive Currency Converter application built with React. The app allows users to convert between different currencies using real-time exchange rates.
 
+***Use Your Own API Key.
+
 ## Features
 - Convert between multiple currencies.
 - Real-time exchange rates fetched from an external API.
