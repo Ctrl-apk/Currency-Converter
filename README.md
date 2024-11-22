@@ -51,4 +51,4 @@ Once everything is set up, you can run the app locally using:
 
     npm run dev
     
-The application will start and you can access it at http://localhost:3000/.
+The application will start and you can access it at http://localhost:3000/ (link will be given in terminal).
